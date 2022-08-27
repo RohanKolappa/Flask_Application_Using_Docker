@@ -17,4 +17,5 @@ Steps taken to create, run, and open Docker container using the command line:
   4. This whole process is pretty much applicable to any image on DockerHub since we are now using terminal to create, run, and open our containers
   5. You can type localhost:[port number] on the browser to see what the flask application does
 
+Expected Output:
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/81287555/187007804-0b0e82d6-898a-466f-90d6-7aeeaac36ef8.png">
