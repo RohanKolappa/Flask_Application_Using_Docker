@@ -3,8 +3,8 @@ In this project, a Docker container was used to create an isolated development e
 
 Steps taken to create, run, and open Docker container using the command line:
   1. Wrote a generic Python program, which included Flask, an html file, requirements.txt file, and Dockerfile
-  3. Then the docker image was built
-  4. Then the docker image was run inside of the container
+  3. Then the docker image was built on the command line using the docker build command
+  4. Then the docker image was run inside of the container using the docker run command
   5. To check the status of any containers Docker Desktop was downloaded (although this can also be done using the docker ps command)
   6. Once you have your container running on a specific port, you can enter the container by using the docker exec command
   7. Then once inside the container, you can run the Python program by typing python followed by the name of your program
