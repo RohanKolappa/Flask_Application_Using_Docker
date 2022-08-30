@@ -1,7 +1,7 @@
 # Flask_Application_Using_Docker
 In this project, a Docker container was used to create an isolated development environment to test a Flask application.
 
-Image uploaded to Docker Hub: https://hub.docker.com/r/rokoko24/flask-docker
+Image uploaded to Docker Hub: https://hub.docker.com/r/rokoko24/flask-docker/tags
 
 Steps taken to create, run, and open Docker container using the command line:
   1. Wrote a generic Python program, which included Flask, an html file, requirements.txt file, and Dockerfile
